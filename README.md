@@ -1,1 +1,0 @@
-# hotel-mobile-apps-using-kivy-python
